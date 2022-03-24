@@ -6,3 +6,5 @@
 1. Make friends
 2. Add friends
 3. Talk to friends
+
+# Enjoy The App!
